@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OOLn6HHhWY4vlotD2ySu+eCxXbEfZXsX4+2lkuhEDnKBgRnjxLogPnTeDD1OUHbHpcDb5JaB/2NdAk/qHbqsw==",
+  "success": true,
+  "projectFilePath": "E:\\Новая папка\\ConsoleApp2__old\\ConsoleApp2__old.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dengr\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\dengr\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\dengr\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\dengr\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

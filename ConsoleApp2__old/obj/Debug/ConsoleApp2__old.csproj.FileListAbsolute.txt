@@ -1,0 +1,15 @@
+E:\Новая папка\ConsoleApp2__old\bin\Debug\ConsoleApp2__old.exe.config
+E:\Новая папка\ConsoleApp2__old\bin\Debug\ConsoleApp2__old.exe
+E:\Новая папка\ConsoleApp2__old\bin\Debug\ConsoleApp2__old.pdb
+E:\Новая папка\ConsoleApp2__old\obj\Debug\ConsoleApp2__old.csproj.CoreCompileInputs.cache
+E:\Новая папка\ConsoleApp2__old\obj\Debug\ConsoleApp2__old.exe
+E:\Новая папка\ConsoleApp2__old\obj\Debug\ConsoleApp2__old.pdb
+E:\Новая папка\ConsoleApp2__old\bin\Debug\NUnit3.TestAdapter.dll
+E:\Новая папка\ConsoleApp2__old\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Новая папка\ConsoleApp2__old\bin\Debug\nunit.engine.dll
+E:\Новая папка\ConsoleApp2__old\bin\Debug\nunit.engine.api.dll
+E:\Новая папка\ConsoleApp2__old\bin\Debug\nunit.engine.core.dll
+E:\Новая папка\ConsoleApp2__old\bin\Debug\testcentric.engine.metadata.dll
+E:\Новая папка\ConsoleApp2__old\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Новая папка\ConsoleApp2__old\bin\Debug\nunit.framework.dll
+E:\Новая папка\ConsoleApp2__old\obj\Debug\ConsoleApp2__old.csproj.CopyComplete
